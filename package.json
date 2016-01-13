@@ -2,6 +2,7 @@
   "name": "ember-drag-drop",
   "version": "0.3.0",
   "description": "Addon for Ember CLI to do drag and drop",
+  "homepage": "https://github.com/mharris717/ember-drag-drop",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +12,10 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/mharris717/ember-drag-drop.git"
+  },
   "engines": {
     "node": ">= 0.10.0"
   },
